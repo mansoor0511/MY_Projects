@@ -111,13 +111,5 @@ public class Main {
         System.out.println(pluto.equals(earth1));
 
 
-
-
-
-
-
-
-
-
     }
 }
